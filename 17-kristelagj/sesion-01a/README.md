@@ -1,5 +1,6 @@
 # sesion-01a
 Apuntes clase 100326
+
 Tejido y proceso humano. Bordar y tejer cables
 Aaron es software y Missa es máquinas
 El corazón del robot es Chilena. Ella hace sus sintetizadores (chip + soldaduras)
